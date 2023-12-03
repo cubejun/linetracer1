@@ -24,8 +24,25 @@ gstreamer를 이용해 젯슨나노 보드에서 카메라 영상을 읽고, pc�
 
 s버튼을 누르면 모터가 가동되고, ctrl+c를 누르면 코드가 종료된다. 
 
+# robot view, 영상처리결과, 콘솔출력결과
+
+https://github.com/cubejun/linetracer1/assets/133946040/7a4b60ac-5eed-40fc-95e0-0f4d9ecba5c6
 
 
+
+https://github.com/cubejun/linetracer1/assets/133946040/4ba774e7-cfdf-4bec-9670-9ef768928b73
+
+
+
+https://github.com/cubejun/linetracer1/assets/133946040/4cfb8027-c96f-4bbb-9a05-3ef0947c0b8e
+
+
+
+https://github.com/cubejun/linetracer1/assets/133946040/3b3da729-3834-4ed4-b3f2-83a46bc61e99
+
+
+
+# human view
 
 https://github.com/cubejun/linetracer1/assets/133946040/b0b32f5d-dae9-4cdf-9de6-0b54e6ffc517
 
