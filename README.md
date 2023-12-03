@@ -23,3 +23,22 @@ gstreamer를 이용해 젯슨나노 보드에서 카메라 영상을 읽고, pc�
 우측속도명령 = 직진속도 + 게인\*error
 
 s버튼을 누르면 모터가 가동되고, ctrl+c를 누르면 코드가 종료된다. 
+
+
+
+
+https://github.com/cubejun/linetracer1/assets/133946040/b0b32f5d-dae9-4cdf-9de6-0b54e6ffc517
+
+
+
+https://github.com/cubejun/linetracer1/assets/133946040/6c64ff6e-6a1e-4a2c-8059-51d68658111b
+
+
+
+https://github.com/cubejun/linetracer1/assets/133946040/c8721bd9-0d74-469b-a4a0-68415f4d1618
+
+
+
+https://github.com/cubejun/linetracer1/assets/133946040/d6ddb5da-f6fa-45df-9511-dbccad627f8b
+
+
